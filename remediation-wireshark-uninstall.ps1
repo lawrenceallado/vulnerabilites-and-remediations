@@ -46,3 +46,4 @@ function Uninstall-Wireshark {
 
 # Execute the uninstall function
 Uninstall-Wireshark
+ 
